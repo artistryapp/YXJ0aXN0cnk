@@ -1,0 +1,9 @@
+{
+  "name": "ekhool",
+  "android": {
+    "bundleUrl": "https://raw.githubusercontent.com/artistryapp/YXJ0aXN0cnk/main/index.android.bundle",
+    "version": "1",
+    "assetsUrl": "https://raw.githubusercontent.com/artistryapp/YXJ0aXN0cnk",
+    "updatedAt": "Sun, 06 Aug 2023 08:37:26 GMT"
+  }
+}
